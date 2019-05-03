@@ -1,0 +1,2 @@
+include ':app', ':form'
+project(':form').projectDir = new File("D:\\Assignment1a\\form")
