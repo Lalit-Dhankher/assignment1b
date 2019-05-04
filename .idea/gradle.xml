@@ -9,7 +9,6 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="D:/Assignment1a/form" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
